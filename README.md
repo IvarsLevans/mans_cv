@@ -9,7 +9,7 @@
 ## Sasniegumi
 2014-2017 Kikboksa un boksa skola "Rīga"  
 2017-2019 Karate – Bērnu un jauniešu centrs "Daugmale"  
--*Atestāts Okinavas Godžju-Rju Karatē-do uz 8 kyu*  
+- *Atestāts Okinavas Godžju-Rju Karatē-do uz 8 kyu*  
 
 ## Hobiji
 
