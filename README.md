@@ -1,6 +1,5 @@
 # Mans CV
-![Profila bilde])(https://imgur.com/a/GyqMsgx)
-
+![Profila bilde](https://imgur.com/a/GyqMsgx)
 
 ## Izglītība
 
