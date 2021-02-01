@@ -1,5 +1,6 @@
 # Mans CV
 **Ivars Levāns**  
+
 <img src="images/cv.jpeg" width=150>
 
 ## Izglītība
