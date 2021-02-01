@@ -21,5 +21,6 @@
 - BMX
 
 # Pieredze programmēšanā
-- 2019-2020 C
+- 2017-2020 Scratch
+- 2019-2020 C++
 - 2020-2021 Python 3.0
