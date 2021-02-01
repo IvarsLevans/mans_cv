@@ -18,7 +18,6 @@
 - Kinematogrāfija
 - Gleznošana
 - Auto entuziasts
-- BMX
 
 # Pieredze programmēšanā
 - 2017-2020 Scratch
