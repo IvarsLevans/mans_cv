@@ -1,6 +1,6 @@
 # Mans CV
 **Ivars Levāns**  
-![Profila bilde](downloads/cv.jpeg)
+![Profila bilde](images/cv.jpeg)
 
 ## Izglītība
 2011-2020 Rīgas valsts 25. vidusskola  
