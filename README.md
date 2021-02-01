@@ -13,10 +13,10 @@
 - *Atestāts Okinavas Godžju-Rju Karatē-do uz 8 kyu*  
 
 ## Hobiji
-- Auto entuziasts
 - Mūzikas producēšana
 - Kinematogrāfija
 - Gleznošana
+- Auto entuziasts
 - BMX
 
 # Pieredze programmēšanā
