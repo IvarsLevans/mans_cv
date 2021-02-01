@@ -13,6 +13,7 @@
 - *Atestāts Okinavas Godžju-Rju Karatē-do uz 8 kyu*  
 
 ## Hobiji
+- Programmēšana
 - Mūzikas producēšana
 - Kinematogrāfija
 - Gleznošana
